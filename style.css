@@ -1,0 +1,17 @@
+/*
+Theme Name: Travelo
+Theme URI: http://www.soaptheme.net/wordpress/travelo
+Author: SoapTheme
+Author URI: http://www.soaptheme.net/
+Description: The Travelo theme for WordPress is a fully responsive theme that looks great on any device. This theme is for travel booking.
+Version: 1.7.1
+Tags: white, blue, gray, green, orange, red, yellow, light, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, responsive-layout, custom-header, custom-menu, editor-style, featured-images,  post-formats,  sticky-post, theme-options, translation-ready
+License: GNU General Public License
+License URI: http://themeforest.net/wiki/support/legal-terms/licensing-terms/
+*/
+
+#header.style4 .main-navigation {
+    background: #107cca !important;
+    color: #fff !important;
+
+}
